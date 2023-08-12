@@ -10,6 +10,15 @@ struct Student
 
 };
 
+
+//typedef struct	用typedef定义数据结构，后面可以直接用Student，不需要写struct
+//{
+//	string name;
+//	int age;
+//	int score;
+//
+//}Student;
+
 //结构体嵌套
 
 struct Teacher {
