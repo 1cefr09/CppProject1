@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Cite.cpp" />
     <ClCompile Include="Heap and new.cpp" />
     <ClCompile Include="Hello World.cpp" />
     <ClCompile Include="struct.cpp" />
