@@ -16,31 +16,31 @@ int& test() {
     return a;
 }
 
-int main()
-{
-    int a = 10;
-    //int& b;  错误的,一定要初始化且不能改；
-    int& b = a;
-    cout << "a=" << a << endl;
-    cout << "b=" << b << endl;
-    b = 100;
-    cout << "a=" << a << endl;
-    cout << "b=" << b << endl;
-
-    a = 10;
-    b = 20;
-    swap(a, b);
-    cout << "a=" << a << endl;
-    cout << "b=" << b << endl;
-
-
-    int& ref = test();
-
-    cout << "ref=" << ref << endl;
-
-    test() = 1000;
-
-    cout << "ref=" << ref << endl;
-    system("pause");
-    return 0;
-}
+//int main()
+//{
+//    int a = 10;
+//    //int& b;  错误的,一定要初始化且不能改；
+//    int& b = a;
+//    cout << "a=" << a << endl;
+//    cout << "b=" << b << endl;
+//    b = 100;
+//    cout << "a=" << a << endl;
+//    cout << "b=" << b << endl;
+//
+//    a = 10;
+//    b = 20;
+//    swap(a, b);
+//    cout << "a=" << a << endl;
+//    cout << "b=" << b << endl;
+//
+//
+//    int& ref = test();
+//
+//    cout << "ref=" << ref << endl;
+//
+//    test() = 1000;
+//
+//    cout << "ref=" << ref << endl;
+//    system("pause");
+//    return 0;
+//}
