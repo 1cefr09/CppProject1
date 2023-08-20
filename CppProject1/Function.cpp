@@ -20,9 +20,9 @@ void func(double a, int b) {
 }
 
 
-int main() {
-	func();
-	func(10, 3.14);
-	func(3.14, 10);
-
-}
+//int main() {
+//	func();
+//	func(10, 3.14);
+//	func(3.14, 10);
+//
+//}

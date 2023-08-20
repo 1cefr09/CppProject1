@@ -128,6 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Cite.cpp" />
+    <ClCompile Include="Classes authority.cpp" />
+    <ClCompile Include="Classes.cpp" />
     <ClCompile Include="Function.cpp" />
     <ClCompile Include="Heap and new.cpp" />
     <ClCompile Include="Hello World.cpp" />
