@@ -127,13 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Cite.cpp" />
-    <ClCompile Include="Classes authority.cpp" />
-    <ClCompile Include="Classes.cpp" />
-    <ClCompile Include="Function.cpp" />
-    <ClCompile Include="Heap and new.cpp" />
+    <ClCompile Include="引用.cpp" />
+    <ClCompile Include="类和访问权限.cpp" />
+    <ClCompile Include="类.cpp" />
+    <ClCompile Include="函数.cpp" />
+    <ClCompile Include="堆和new.cpp" />
     <ClCompile Include="Hello World.cpp" />
-    <ClCompile Include="struct.cpp" />
+    <ClCompile Include="结构体.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

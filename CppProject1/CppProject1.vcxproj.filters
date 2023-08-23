@@ -18,22 +18,22 @@
     <ClCompile Include="Hello World.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="struct.cpp">
+    <ClCompile Include="结构体.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Heap and new.cpp">
+    <ClCompile Include="堆和new.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Cite.cpp">
+    <ClCompile Include="引用.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Function.cpp">
+    <ClCompile Include="函数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Classes.cpp">
+    <ClCompile Include="类.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Classes authority.cpp">
+    <ClCompile Include="类和访问权限.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
