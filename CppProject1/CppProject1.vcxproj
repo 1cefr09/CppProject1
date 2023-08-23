@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="对象的初始化和清理.cpp" />
     <ClCompile Include="引用.cpp" />
     <ClCompile Include="类和访问权限.cpp" />
     <ClCompile Include="类.cpp" />
