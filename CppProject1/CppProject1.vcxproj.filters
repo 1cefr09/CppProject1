@@ -39,5 +39,8 @@
     <ClCompile Include="对象的初始化和清理.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="浅拷贝深拷贝.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
