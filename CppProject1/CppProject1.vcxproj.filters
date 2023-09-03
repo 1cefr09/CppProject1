@@ -42,5 +42,11 @@
     <ClCompile Include="浅拷贝深拷贝.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="初始化列表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类对象作为类成员.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
