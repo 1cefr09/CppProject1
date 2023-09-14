@@ -138,6 +138,7 @@
     <ClCompile Include="Hello World.cpp" />
     <ClCompile Include="类对象作为类成员.cpp" />
     <ClCompile Include="结构体.cpp" />
+    <ClCompile Include="静态成员.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
